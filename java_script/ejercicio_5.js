@@ -5,5 +5,4 @@ if(edad > 16 && ingresos >= 1000){
     alert("tienes que tributar impuestos :(")
 }else{
     alert("no tienes que tributar :)")
-    
 }
